@@ -1,0 +1,6 @@
+org/example/model/Produto$ProdutoBuilder.class
+org/example/Main.class
+org/example/model/CarrinhoProdutos.class
+org/example/carrinho/CarrinhoCompras.class
+org/example/model/CarrinhoProdutos$CarrinhoProdutosBuilder.class
+org/example/model/Produto.class
